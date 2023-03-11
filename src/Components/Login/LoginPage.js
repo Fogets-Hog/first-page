@@ -2,7 +2,6 @@ import React from 'react'
 import FormLog from './FormLog';
 import './Login.css';
 
-
 const LoginPage = () => {
 
 const handleLogin = (email, apiToken) => {
